@@ -7,9 +7,11 @@ The task of the hackathon was to create synthethic data with a dataset of choice
 
 ## Data set
 we used the UCI Health data set available from https://www.kaggle.com/ronitf/heart-disease-uci
+
 Targets
   - 0 = no presence of heart disease
   - 1 = presence of heart disease
+ 
 Target value counts
   - 1 = 165
   - 0 = 138
