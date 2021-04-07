@@ -25,3 +25,5 @@ For this Github repository I will share the Principal Component Analysis (PCA) a
 SMOTE uses measures distance between points on a 2D plane, and samples a synthetic point from between the 2 points.
 
 Categotirical data were re-labelled with one hot encoding.
+
+1000 number of samples were created using the synthetic data generators.
